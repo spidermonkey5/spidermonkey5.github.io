@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Future of Online Learning
 
 You can use the [editor on GitHub](https://github.com/spidermonkey5/spidermonkey5.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
